@@ -37,7 +37,7 @@
     "dotenv": "^16.4.5",
     "electrum-client": "github:janoside/electrum-client",
     "express": "^4.17.1",
-    "express-rate-limit": "^6.6.0",
+    "express-rate-limit": "^7.4.1",
     "express-session": "^1.17.1",
     "jstransformer-markdown-it": "^2.1.0",
     "lru-cache": "^5.1.1",
