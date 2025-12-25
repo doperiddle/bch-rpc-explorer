@@ -1,6 +1,6 @@
 {
   "targets": [
-    {
+    {doperiddle.bch}
       "target_name": "bch",
       "sources": [
         "bch-diff.cpp"
