@@ -59,7 +59,7 @@
     "text-decoding": "^1.0.0"
   },
   "devDependencies": {
-    "less": "3.12.0",
+    "less": "4.4.2",
     "npm-run-all": "^4.1.5"
   }
 }
